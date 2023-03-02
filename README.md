@@ -16,6 +16,5 @@ Examples of Work
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/SoulTraderOdds)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/igorstrelbitsky)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B8%D1%86%D0%BA%D0%B8%D0%B9-00b74a245/)
+[![Djinni](https://img.shields.io/badge/-Djinni-090909?style=for-the-badge&logo=Disqus&logoColor=007BB6)](https://djinni.co/q/0df15eacd8/)
