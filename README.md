@@ -1,4 +1,4 @@
-[![Header](https://github.com/KIngGidra/KingGidra/blob/main/.idea/Assets/Ao.gif )](https://dou.ua/users/igor-strelbitskii/)
+[<img alt="Header" height="190" src="https://github.com/KIngGidra/KingGidra/blob/main/.idea/Assets/Ao.gif" width="190"/>](https://dou.ua/users/igor-strelbitskii/)
 
 
 ### A talented software engineer and quality assurance with experience in object-oriented analysis, design, and exceptional experience overseeing aspects of the software development, analysis, and design lifecycle before implementation.
@@ -16,7 +16,7 @@ Examples of Work
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)
 ![Djinni](https://img.shields.io/badge/-Djinny-090909?style=for-the-badge&logo=Djinni)
 
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)(https://t.me/SoulTraderOdds)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)] (https://t.me/SoulTraderOdds)
 
 
 
