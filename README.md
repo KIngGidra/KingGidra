@@ -1,7 +1,7 @@
 [![Header](https://github.com/KIngGidra/KingGidra/blob/main/.idea/Assets/Ao.gif )](https://dou.ua/users/igor-strelbitskii/)
 
 
-## A talented software engineer and quality assurance with experience in object-oriented analysis, design, and exceptional experience overseeing aspects of the software development, analysis, and design lifecycle before implementation.
+### A talented software engineer and quality assurance with experience in object-oriented analysis, design, and exceptional experience overseeing aspects of the software development, analysis, and design lifecycle before implementation.
     
 ### Languages and Tools
 
@@ -20,4 +20,3 @@ Examples of Work
 
 
 
-[![Header](https://github.com/KIngGidra/KingGidra/blob/main/.idea/Assets/Ao.gif)]
