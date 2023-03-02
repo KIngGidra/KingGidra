@@ -1,4 +1,4 @@
-[<img alt="Header" height="550" src="https://github.com/KIngGidra/KingGidra/blob/main/.idea/Assets/Ao.gif" width="900"/>](https://dou.ua/users/igor-strelbitskii/)
+[<img alt="Header" height="480" src="https://github.com/KIngGidra/KingGidra/blob/main/.idea/Assets/Ao.gif" width="900"/>](https://dou.ua/users/igor-strelbitskii/)
 
 
 ### A talented software engineer and quality assurance with experience in object-oriented analysis, design, and exceptional experience overseeing aspects of the software development, analysis, and design lifecycle before implementation.
