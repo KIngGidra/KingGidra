@@ -12,15 +12,32 @@
 
 ### Examples of Work
 
-- [Check Lists]()
+- [Test Cases](https://github.com/KIngGidra/Test_Cases)
 
-- [Test Cases]()
+- [Check Lists](https://github.com/KIngGidra/Checklists)
 
-- [Bug Reports]()
+- [Test_Design](https://github.com/KIngGidra/Test_Design)
 
-- [SQL Queries]()
+- [Requirements](https://github.com/KIngGidra/Requirements)
 
-- [Postman Collections]()
+- [SQL Queries](https://github.com/KIngGidra/SQL)
+
+- [Git](https://github.com/KIngGidra/Git)
+
+- [Postman](https://github.com/KIngGidra/Postman-API)
+
+- [Bug Reports](https://github.com/KIngGidra/Bug_Reports)
+
+- [HTTP (Chrome Dev Tools)](https://github.com/KIngGidra/HTTP_Chrome_Dev_Tools)
+
+- [Java](https://github.com/KIngGidra/Java)
+
+- [Basic_Tests](https://github.com/KIngGidra/First_Tests)
+
+
+
+
+
 ### Follow Me
 
 
